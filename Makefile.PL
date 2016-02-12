@@ -88,6 +88,7 @@ my %WriteMakefileArgs = (
     "String::ShellQuote" => 0,
     "Symbol::Global::Name" => "0.05",
     "Sys::Syslog" => "0.16",
+    "Term::ReadKey" => 0,
     "Text::ParseWords" => 0,
     "Text::Password::Pronounceable" => 0,
     "Text::Quoted" => "2.07",

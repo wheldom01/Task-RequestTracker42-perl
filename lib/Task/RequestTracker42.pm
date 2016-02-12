@@ -156,6 +156,8 @@ These are the modules that are required by Request Tracker v4.2:
 
 =item * Sys::Syslog
 
+=item * Term::ReadKey 
+
 =item * Text::ParseWords
 
 =item * Text::Password::Pronounceable
